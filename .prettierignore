@@ -1,0 +1,11 @@
+# Ignore artifacts:
+dist
+node_modules
+*.log
+*.pid
+*.pid.lock
+npm-debug.log*
+build
+coverage
+models/**/*
+.prettierrc.mjs
